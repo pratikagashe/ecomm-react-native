@@ -1,0 +1,11 @@
+{
+  "name": "ReactNativePOC",
+  "displayName": "ReactNativePOC",
+  "expo": {
+    "name": "ReactNativePOC",
+    "slug": "ReactNativePOC",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
